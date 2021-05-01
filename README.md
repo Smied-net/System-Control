@@ -42,11 +42,11 @@ or
 
 2. Start: 
 
-2.1 `sudo bash https://raw.githubusercontent.com/Smied-net/System-Control/main/systemcontrol.sh`
+2.1 `sudo bash systemcontrol.sh`
 
 or
 
-2.1 `sudo https://raw.githubusercontent.com/Smied-net/System-Control/main/systemcontrol.sh`
+2.1 `sudo systemcontrol`
 
 # Donate
 
