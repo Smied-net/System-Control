@@ -17,7 +17,6 @@
 ### OS
 
 * [Ubuntu](https://ubuntu.com/download)
-* [Proxmox](https://www.proxmox.com/en/downloads)
 
 # Use
 
