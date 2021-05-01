@@ -1,6 +1,6 @@
 # System Control
 
-[System Control](https://github.com/Smied-net/System-Control) - user friendly script to manage the system. Linux (Ubuntu/Debian & CentOS & Proxmox), MacOS, Windows
+[System Control](https://github.com/Smied-net/System-Control) - user friendly script to manage the system. Linux (Ubuntu)
 
 **Smied.net links:**
 
