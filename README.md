@@ -2,6 +2,8 @@
 
 [System Control](https://github.com/Smied-net/System-Control) - user friendly script to manage the system. Linux (Ubuntu)
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Smied-net.System-Control)
+ 
 **Smied.net links:**
 
 [Website](https://Smied.net/) | [Documentation]() | [Feedback](https://Feedback.Smied.net/)
